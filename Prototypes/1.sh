@@ -1,0 +1,1 @@
+python3 storeonce_monitoring_prototype.py storeonceservices/cluster/servicesets/1/services/nas/shares | jq

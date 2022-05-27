@@ -1,0 +1,1 @@
+python3 example.py storeonceservices/cluster/servicesets/1/services/nas/shares | jq

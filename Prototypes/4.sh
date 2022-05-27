@@ -1,0 +1,1 @@
+python3 storeonce_minitoring.py storeonceservices/cluster | jq
