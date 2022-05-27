@@ -1,1 +1,0 @@
-python3 example.py storeonceservices/cluster/servicesets/1/services/nas/cifsserver | jq
